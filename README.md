@@ -1,4 +1,4 @@
-# Compsys306-Project-1-MLP_SVM
+
 Compsys 306 course project 
 
 ## machine learning models for a real-world traffic sign recognition application (MVP, SVM)
